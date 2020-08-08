@@ -1,0 +1,4 @@
+project="elliot-192017"
+billing_account="billing account e.g 11024BB-F43440-8IIF4502"
+org_id="Organization id e.g: 1112223311123"
+credentials="path to service account file"

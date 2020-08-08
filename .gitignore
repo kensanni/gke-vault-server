@@ -1,0 +1,5 @@
+tls/*.pem
+
+
+terraform.tfvars
+backend.config
